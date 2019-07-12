@@ -1,4 +1,4 @@
-https://prod.liveshare.vsengsaas.visualstudio.com/join?484A8749840521E3E97726719D7C8E77E9A1
+https://prod.liveshare.vsengsaas.visualstudio.com/join?9E6B2239CA01508C72692697B9B1B795BD80
 
 
 Abra o Executar (Win+R)
