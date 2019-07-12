@@ -1,1 +1,9 @@
 https://prod.liveshare.vsengsaas.visualstudio.com/join?484A8749840521E3E97726719D7C8E77E9A1
+
+
+Abra o Executar (Win+R)
+Em seguida abra o Prompt de Comando digitando na caixa de diálogo:  cmd
+Ao abrir o Prompt de Comando digite:  C:\Windows\System32\OptionalFeatures.exe
+Selecione a caixa “Telnet Client” e clique em OK.
+
+Abra o Prompt de Comando novamente e digite: telnet towel.blinkenlights.nl
