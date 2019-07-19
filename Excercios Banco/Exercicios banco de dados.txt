@@ -1,5 +1,7 @@
-1 - Elabore um programa de boletim escolar: O programa deverá permitir inserir notas para vários alunos matriculados na turma. Deverá ser informado 4 notas, das quais será calculado a média, e o percentual de frequência do aluno para a disciplina. Para o aluno ser aprovado a média deve ser maior ou igual a 7 e o percentual de frequência não pode ser inferior a 75%.
+Em um novo banco de dados
 
-2 - Um padaria precisa registrar as receitas dos produtos que fabrica. Precisa que seja cadastrado os ingredientes e respectivas quantidades de cada receita, assim como o modo de preparo. O padeiro precisa realizar uma pesquisa pelo nome do produto e listar todos as informações referentes a ela. EX: Pesquisar por “Bolo de limão”.
+1 - Elaborar um sistema de boletim escolar que deverá conter as notas de varios alunos pelo menos 5 matriculados em uma turma, ou seja temos alunos e eles estão registrados em uma turma, os alunos conterão 4 notas dentro do sistema, não com isso mas o alunos precisa ter i, registro de 4 dias de frequencia sendo que a frequencia não pode ser inferior a 75% para o mesmo ser identificado com aprovado.
 
-3 - Um estacionamento deseja controlar a entrada de carros no estacionamento. O estacionamento rotativo registra a placa e a data e hora de entrada. No estacionamento mensal e cadastrado o carro e o cliente a quem pertence. O sistema deve registrar a entrada de carros para o rotativo e mensal e calcular o valor cobrado.
+1.1 - Devemos ter as tabelas e os registros.
+1.2 - Devemos retornar as informações da frequencia e se os alunos estão aprovados.
+
