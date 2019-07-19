@@ -1,0 +1,5 @@
+1 - Elabore um programa de boletim escolar: O programa deverá permitir inserir notas para vários alunos matriculados na turma. Deverá ser informado 4 notas, das quais será calculado a média, e o percentual de frequência do aluno para a disciplina. Para o aluno ser aprovado a média deve ser maior ou igual a 7 e o percentual de frequência não pode ser inferior a 75%.
+
+2 - Um padaria precisa registrar as receitas dos produtos que fabrica. Precisa que seja cadastrado os ingredientes e respectivas quantidades de cada receita, assim como o modo de preparo. O padeiro precisa realizar uma pesquisa pelo nome do produto e listar todos as informações referentes a ela. EX: Pesquisar por “Bolo de limão”.
+
+3 - Um estacionamento deseja controlar a entrada de carros no estacionamento. O estacionamento rotativo registra a placa e a data e hora de entrada. No estacionamento mensal e cadastrado o carro e o cliente a quem pertence. O sistema deve registrar a entrada de carros para o rotativo e mensal e calcular o valor cobrado.
