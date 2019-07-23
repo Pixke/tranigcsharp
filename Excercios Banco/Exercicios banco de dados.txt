@@ -1,3 +1,6 @@
+Todos os selects deve estar dentro de uma pasta chamada QuerysInnerJoin dentro do git diretorio padrão
+
+
 Trazer somente as marcas que Felipe cadastrou
 Trazer somente as marcas que Giomar cadastrou
 
@@ -20,21 +23,31 @@ Trazer somente os carros das marcas que Giomar cadastrou
 Trazer somente a quantidade de carros das marcas que Felipe cadastrou maior para menor
 Trazer somente a quantidade de carros das marcas que Giomar cadastrou menor para maior
 
-Trazer total de vendas 2019 isolado
+Trazer o valor total de vendas 2019 isolado
+Trazer a quantidade total de vendas 2019 isolado
 
-Trazer total de vendas em cada ano e ordernar do maior para o menor
+Trazer o valor total de vendas em cada ano e ordernar do maior para o menor
+Trazer a quantidade de vendas em cada ano e ordernar do maior para o menor
 
 Trazer o mês de cada ano que retornou a maior quantidade de vendas
 		- Tradução "Retornar agrupado por mês e ordernar do maior para menor"
+		
+Trazer o mês de cada ano que retornou o maior valor de vendas
+		- Tradução "Retornar agrupado por mês e ordernar do maior para menor"
 
-Trazer total de vendas que Felipe realizou
-Trazer total de vendas que Giomar realizou
+Trazer o valor total de vendas que Felipe realizou
+Trazer o valor total de vendas que Giomar realizou
 
-Trazer total de vendas que Felipe e Giomar realizaram ordenando do maior para menor
+Trazer a quantidade total de vendas que Felipe realizou
+Trazer a quantidade de vendas que Giomar realizou
+
+Trazer a quantidade total de vendas que Felipe e Giomar realizaram ordenando do maior para menor
+Trazer o valor de vendas que Felipe e Giomar realizaram ordenando do maior para menor
 
 Trazer  a marca mais vendida de todos os anos
 		- Tradução "Retornar todas as marcas que foram vendidas mas ordernada da maior para menor"
+Trazer o valor total da marca mais vendida de todos os anos		
 
-Trazer o carro mais vendido de todos os anos
-
+Trazer a quantidade do carro mais vendido de todos os anos
+Trazer o valor do carro mais vendido de todos os anos
 
