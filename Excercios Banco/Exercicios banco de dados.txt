@@ -1,7 +1,40 @@
-Em um novo banco de dados
+Trazer somente as marcas que Felipe cadastrou
+Trazer somente as marcas que Giomar cadastrou
 
-1 - Elaborar um sistema de boletim escolar que deverá conter as notas de varios alunos pelo menos 5 matriculados em uma turma, ou seja temos alunos e eles estão registrados em uma turma, os alunos conterão 4 notas dentro do sistema, não com isso mas o alunos precisa ter i, registro de 4 dias de frequencia sendo que a frequencia não pode ser inferior a 75% para o mesmo ser identificado com aprovado.
+Trazer somente a quantidade de marcas que Felipe cadastrou do maior para menor
+Trazer somente a quantidade de marcas que Giomar cadastrou do menor para maior
 
-1.1 - Devemos ter as tabelas e os registros.
-1.2 - Devemos retornar as informações da frequencia e se os alunos estão aprovados.
+Trazer somente a quantidade de marcas que Felipe e Giomar cadastraram 
+
+Trazer somente os carros que Felipe cadastrou
+Trazer somente os carros que Giomar cadastrou
+
+Trazer somente a quantidade de carros que Felipe cadastrou maior para menor
+Trazer somente a quantidade de carros que Giomar cadastrou menor para maior
+
+Trazer somente a quantidade de carros que Felipe e Giomar cadastraram 
+
+Trazer somente os carros das marcas que Felipe cadastrou
+Trazer somente os carros das marcas que Giomar cadastrou
+
+Trazer somente a quantidade de carros das marcas que Felipe cadastrou maior para menor
+Trazer somente a quantidade de carros das marcas que Giomar cadastrou menor para maior
+
+Trazer total de vendas 2019 isolado
+
+Trazer total de vendas em cada ano e ordernar do maior para o menor
+
+Trazer o mês de cada ano que retornou a maior quantidade de vendas
+		- Tradução "Retornar agrupado por mês e ordernar do maior para menor"
+
+Trazer total de vendas que Felipe realizou
+Trazer total de vendas que Giomar realizou
+
+Trazer total de vendas que Felipe e Giomar realizaram ordenando do maior para menor
+
+Trazer  a marca mais vendida de todos os anos
+		- Tradução "Retornar todas as marcas que foram vendidas mas ordernada da maior para menor"
+
+Trazer o carro mais vendido de todos os anos
+
 
