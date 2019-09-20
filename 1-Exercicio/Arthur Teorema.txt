@@ -1,4 +1,0 @@
-Arthur
-
-- 5x5 = 25 
-	-quando x/5 for igual a 1
