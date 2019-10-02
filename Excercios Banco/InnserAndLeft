@@ -1,0 +1,11 @@
+Criar Tabela de pedidos 
+    Id,Numero,Cliente,Total, campos de controle
+Clientes
+    Id,Nome,Genero,Idade campos de controle
+    
+    
+Tabela de salario 
+    Id,Funcionario,Valor
+Tabela de funcionario
+    Id,Nome,DataInicio,DataSaida
+  
