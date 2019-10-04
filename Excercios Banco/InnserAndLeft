@@ -9,3 +9,35 @@ Tabela de salario
 Tabela de funcionario
     Id,Nome,DataInicio,DataSaida
   
+  
+/*Excercicios de banco de dados*/
+1 - Criar uma base de dados chamada FloriculturaDB
+	1.1 - A base deve conter as seguintes tabelas e seus campos
+		1.1.1 - Flores
+			1.1.1.1 - Id,Nome,Quantidade
+	1.2 - Devemos inserir ao menos 5 flores dentro de nossa tabelas
+	1.3 - Devemos ter uma seleção ordenada das flores, da que contem a maior quantidade para a menor
+	1.3 - Devemos retornar uma seleção com a quantidade total de flores que temos em nossa tabela
+2 - Criar uma base de dados chamada MercadoTechDB
+	2.1 - A base deve conter as seguintes tabelas e seus campos	
+		2.1.1 - Funcionario
+			2.1.1.1 - Id,Nome e informações de controle
+		2.1.1 - Produtos
+			2.1.1.1 - Id,Nome,Valor e informações de controle
+		2.1.2 - Pedidos
+			2.1.2.1 - Id,FuncionarioId,ProdutoId,Quantidade, e informações de controle
+	2.2  - Agora devemos inseir 2 funcionarios diferentes
+	2.3  - Agora devemos cadastrar 5 produtos ambev com seus respectivos valores
+	2.4  - Vamos realizar a felicidade dos funcionarios e realizar 3 pedidos, sendo 2 para o primeiro funcionario e 1 para o segundo
+	lembrando que cada pedido deve contem no minimo 2 itens e maximo de 5
+	2.5  - Vamos Listar em uma seleção de nossos funcionarios por ordem alfabetica
+	2.6  - Vamos listar em uma seleção de nossos produtos do mais caro para o mais barato
+	2.7  - Vamos listar em uma selação de nossos pedidos por funcionario trazendo o nome do funcionario
+	2.8  - Vamos listar em uma seleção de nossos pedidos agrupando por funcionario os pedidos e somando sua respectiva quantidade de itens
+	2.9  - Vamos listar em uma seleção de nossos pedidos agrupando por funcionario os pedidos e somando seu valor total
+	lembrando que o valor total e a a "quantidade * valor"
+	2.10 - Vamos retornar em uma seleção nosso produto mais pedido dentro de nossa base de dados
+	2.11 - Vamos retornar em uma seleção o produto que gerou a maior receita dentro de nossa base de dados 
+	2.12 - Vamos retornar em uma seleção para o primeiro funcionario os produtos que ele não comprou de nosso mercado
+	2.13 - Vamos retornar em uma seleção os produtos ordenados pela ordem do mais comprado para o menos comprado
+		
