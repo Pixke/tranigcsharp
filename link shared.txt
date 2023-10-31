@@ -1,0 +1,26 @@
+https://prod.liveshare.vsengsaas.visualstudio.com/join?9E6B2239CA01508C72692697B9B1B795BD80
+
+
+Abra o Executar (Win+R)
+Em seguida abra o Prompt de Comando digitando na caixa de diálogo:  cmd
+Ao abrir o Prompt de Comando digite:  C:\Windows\System32\OptionalFeatures.exe
+Selecione a caixa “Telnet Client” e clique em OK.
+
+Abra o Prompt de Comando novamente e digite: telnet towel.blinkenlights.nl
+
+
+
+
+https://stackoverflow.com/questions/9404683/get-the-length-of-row-column-of-multidimensional-array-in-c-sharp
+
+http://csharphelper.com/blog/2018/03/use-tabs-and-stringformat-to-align-text-in-c/
+
+https://dotnetfiddle.net/7sRBhZ
+
+https://www.tutorialsteacher.com/csharp/csharp-action-delegate
+
+
+//aquiiii
+https://prod.liveshare.vsengsaas.visualstudio.com/join?F84502871C24CED9FD3877EA2A81C614588B
+
+
